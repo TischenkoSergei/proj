@@ -1,0 +1,62 @@
+.mainContainer{
+	background-color: white;
+	display: inline-block;
+	font-family: "Calibri";
+}
+
+.menuContainer{
+	background-color: white;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	float: left;
+}
+
+.operationContainer {
+	background-color: white;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	float: left;
+}
+
+.menu {
+	background-color: white;
+	width: 250px;
+	height: 600px;
+}
+
+.menuItem {
+	background-color: white;
+	border-radius: 5px;
+	width: 235px;
+	height: 27px;
+	text-align: left;
+	color: #2f79ef;
+	padding-top: 10px;
+	padding-left: 10px;
+	cursor: pointer;
+}
+
+.active {
+	background-color: #2f79ef;
+	color: white;
+}
+
+.add {
+	background-color: #ededed;
+	width: 600px;
+	height: 280px;
+	margin-bottom: 20px;
+	padding-top: 20px;
+	padding-left: 10px;
+}
+
+.add input {
+	border-width: 1px;
+	border-color: #cecece;
+	border-style: solid;
+	height: 15px;
+}
